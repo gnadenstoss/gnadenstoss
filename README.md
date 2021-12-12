@@ -1,0 +1,3 @@
+- 👋 Hi, I’m David
+- I'm a Owner of the Master Practice network
+- I'm currently learning Python and HTML
